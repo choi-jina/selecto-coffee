@@ -56,7 +56,7 @@ body {position: relative; font-family: 'Pretendard', sans-serif; background-colo
 
 .mobile .menuBox .sns {display: flex; gap: 10px; width: 77%; margin: 0 auto; margin-top: 40px;}
 .mobile .menuBox .store-btn {width: 77%; margin: 0 auto;}
-.mobile .menuBox .store-btn button {padding: 10px 26px; font-size: 1.5rem; font-weight: 500; background: var(--mainColor); color: white; border: none; border-radius: 20px; margin: 40px 135px 60px 0;}
+.mobile .menuBox .store-btn button {padding: 10px 26px; font-size: 1.5rem; font-weight: 500; background: var(--mainColor); color: white; border: none; border-radius: 20px; margin: 40px 135px 60px 0; white-space: nowrap;}
 
 .mobile .menuBox .gnb .lnb {font-size: 1.6rem; margin: 20px 0 50px; display: none;}
 .mobile .menuBox .gnb .lnb li {margin: 10px 0;}
